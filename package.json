@@ -9,7 +9,7 @@
    },
    "dependencies": {
       "moment": "^2.27.0",
-      "moment-timezone": "^0.5.31",
+      "moment-timezone": "^0.5.35",
       "mongodb": "^3.0.8",
       "reflect-metadata": "^0.1.10",
       "typeorm": "0.2.25"
